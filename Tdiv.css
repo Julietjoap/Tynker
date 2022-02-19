@@ -1,0 +1,25 @@
+.code-tynker{
+    display: flex;
+    flex-direction: column;
+    width:100%;
+    background-color: #ecfcff;
+}
+.squiggleTop{
+    width:100%;
+}
+.Tdiv-text{
+    width: 71%;
+    display: flex;
+    flex-direction: column;
+    justify-self: center;
+    align-self: center;
+    align-content: center;
+}
+.Tdiv-text>h1{
+    text-align: center;
+}
+.Tdiv-text>p{
+    font-size: 20px;
+    line-height: 5px;  
+    text-align: justify; 
+}
